@@ -1,4 +1,4 @@
-Tên idea : Mini System Banking (Hệ thống ngân hàng nhỏ) 
+Tên idea : Mini Banking System (Hệ thống ngân hàng nhỏ) 
 ---ĐẠI HỌC SƯ PHẠM KĨ THUẬT THÀNH PHỐ HỒ CHÍ MINH--
 Hình thức : theo nhóm (2 người)
 Thành viên 1 : Ngô Trần Ngân Đô 
